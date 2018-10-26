@@ -2,5 +2,9 @@
   "users": [
     {"id": "23", "firstName": "Bill", "age": 40},
     {"id": "45", "firstName": "Joe", "age": 70}
+  ],
+  "companies": [
+    { "id": "1", "name": "Apple", "description": "Mac"},
+    { "id": "2", "name": "Google", "description": "Search"}
   ]
 }
