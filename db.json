@@ -1,7 +1,8 @@
 {
   "users": [
-    {"id": "23", "firstName": "Bill", "age": 40},
-    {"id": "45", "firstName": "Joe", "age": 70}
+    {"id": "20", "firstName": "Bill", "age": 40, "companyId": "1"},
+    {"id": "21", "firstName": "Joe", "age": 70, "companyId": "1"},
+    {"id": "22", "firstName": "Ashley", "age": 30, "companyId": "2"}
   ],
   "companies": [
     { "id": "1", "name": "Apple", "description": "Mac"},
