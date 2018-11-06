@@ -7,7 +7,8 @@ const {
   GraphQLString,
   GraphQLInt,
   GraphQLSchema,
-  GraphQLList
+  GraphQLList,
+  GraphQLNonNull
 } = graphql
 
 const CompanyType = new GraphQLObjectType({
